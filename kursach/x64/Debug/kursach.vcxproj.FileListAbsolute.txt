@@ -1,0 +1,6 @@
+C:\Users\marik\source\repos\DANIK\kursach\x64\Debug\kursach.vcxprojAssemblyReference.cache
+C:\Users\marik\source\repos\DANIK\kursach\x64\Debug\kursach.lobby.resources
+C:\Users\marik\source\repos\DANIK\kursach\x64\Debug\kursach.loginForm.resources
+C:\Users\marik\source\repos\DANIK\kursach\x64\Debug\kursach.registrationForm.resources
+C:\Users\marik\source\repos\DANIK\kursach\x64\Debug\kursach.vcxproj.GenerateResource.cache
+C:\Users\marik\source\repos\DANIK\kursach\x64\Debug\kursach.vcxproj.CopyComplete

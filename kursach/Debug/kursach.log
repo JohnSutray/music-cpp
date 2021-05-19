@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppClean.targets(77,5): warning : Access to the path 'c:\users\marik\source\repos\danik\debug\wmpnetwendor.dll' is denied.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppClean.targets(77,5): warning : Access to the path 'c:\users\marik\source\repos\danik\debug\kursach.pdb' is denied.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppClean.targets(77,5): warning : Access to the path 'c:\users\marik\source\repos\danik\debug\kursach.exe' is denied.
+  lobby.cpp
+  loginForm.cpp
+  registrationForm.cpp
+  Source.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+LINK : fatal error LNK1104: cannot open file 'C:\Users\marik\source\repos\DANIK\Debug\kursach.exe'

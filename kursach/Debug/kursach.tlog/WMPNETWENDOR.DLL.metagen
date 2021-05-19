@@ -1,0 +1,51 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly WMPNetWendor, Version=1.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class WMPNetWendor.Class1: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    WMPLib.WindowsMediaPlayer wplayer : Public
+  Methods:
+    Play(): PrivateScope, Public, HideBySig
+    Stop(): PrivateScope, Public, HideBySig
+    searsh(String): PrivateScope, Public, HideBySig
+    lenght2(): PrivateScope, Public, HideBySig
+    list1(Int32): PrivateScope, Public, HideBySig
+    txt(String, String): PrivateScope, Public, HideBySig
+Interface WMPLib.IWMPControls: AutoLayout, AnsiClass, Class, Public, ClassSemanticsMask, Abstract, Import
+  Methods:
+    play(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    pause(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+Interface WMPLib.IWMPCore: AutoLayout, AnsiClass, Class, Public, ClassSemanticsMask, Abstract, Import
+Interface WMPLib.IWMPCore2: AutoLayout, AnsiClass, Class, Public, ClassSemanticsMask, Abstract, Import
+  Interfaces:
+    WMPLib.IWMPCore
+Interface WMPLib.IWMPCore3: AutoLayout, AnsiClass, Class, Public, ClassSemanticsMask, Abstract, Import
+  Interfaces:
+    WMPLib.IWMPCore2
+    WMPLib.IWMPCore
+Interface WMPLib.IWMPPlayer4: AutoLayout, AnsiClass, Class, Public, ClassSemanticsMask, Abstract, Import
+  Interfaces:
+    WMPLib.IWMPCore3
+    WMPLib.IWMPCore2
+    WMPLib.IWMPCore
+  Properties:
+    System.String URL 'get set' : 
+    WMPLib.IWMPControls controls 'get ' : 
+  Methods:
+    get_URL(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract, SpecialName
+    set_URL(String(In, HasFieldMarshal)): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract, SpecialName
+    get_controls(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract, SpecialName
+Interface WMPLib.WindowsMediaPlayer: AutoLayout, AnsiClass, Class, Public, ClassSemanticsMask, Abstract, Import
+  Interfaces:
+    WMPLib.IWMPPlayer4
+    WMPLib.IWMPCore3
+    WMPLib.IWMPCore2
+    WMPLib.IWMPCore
+    WMPLib._WMPOCXEvents_Event
+Interface WMPLib._WMPOCXEvents: AutoLayout, AnsiClass, Class, Public, ClassSemanticsMask, Abstract, Import
+Interface WMPLib._WMPOCXEvents_Event: AutoLayout, AnsiClass, Class, Public, ClassSemanticsMask, Abstract, Import

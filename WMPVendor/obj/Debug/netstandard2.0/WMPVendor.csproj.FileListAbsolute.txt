@@ -1,0 +1,8 @@
+C:\Users\marik\source\repos\DANIK\WMPVendor\bin\Debug\netstandard2.0\WMPVendor.deps.json
+C:\Users\marik\source\repos\DANIK\WMPVendor\bin\Debug\netstandard2.0\WMPVendor.dll
+C:\Users\marik\source\repos\DANIK\WMPVendor\bin\Debug\netstandard2.0\WMPVendor.pdb
+C:\Users\marik\source\repos\DANIK\WMPVendor\obj\Debug\netstandard2.0\WMPVendor.AssemblyInfoInputs.cache
+C:\Users\marik\source\repos\DANIK\WMPVendor\obj\Debug\netstandard2.0\WMPVendor.AssemblyInfo.cs
+C:\Users\marik\source\repos\DANIK\WMPVendor\obj\Debug\netstandard2.0\WMPVendor.csproj.CoreCompileInputs.cache
+C:\Users\marik\source\repos\DANIK\WMPVendor\obj\Debug\netstandard2.0\WMPVendor.dll
+C:\Users\marik\source\repos\DANIK\WMPVendor\obj\Debug\netstandard2.0\WMPVendor.pdb

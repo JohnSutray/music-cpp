@@ -1,0 +1,7 @@
+C:\Users\marik\source\repos\DANIK\WMPNetWendor\bin\Debug\WMPNetWendor.dll
+C:\Users\marik\source\repos\DANIK\WMPNetWendor\bin\Debug\WMPNetWendor.pdb
+C:\Users\marik\source\repos\DANIK\WMPNetWendor\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\marik\source\repos\DANIK\WMPNetWendor\obj\Debug\WMPNetWendor.csproj.CoreCompileInputs.cache
+C:\Users\marik\source\repos\DANIK\WMPNetWendor\obj\Debug\WMPNetWendor.csproj.CopyComplete
+C:\Users\marik\source\repos\DANIK\WMPNetWendor\obj\Debug\WMPNetWendor.dll
+C:\Users\marik\source\repos\DANIK\WMPNetWendor\obj\Debug\WMPNetWendor.pdb

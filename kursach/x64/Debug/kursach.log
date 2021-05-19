@@ -1,0 +1,8 @@
+﻿  lobby.cpp
+  loginForm.cpp
+  registrationForm.cpp
+  Source.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  lobby.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  kursach.vcxproj -> C:\Users\marik\source\repos\DANIK\x64\Debug\kursach.exe

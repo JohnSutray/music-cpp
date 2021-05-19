@@ -1,0 +1,2 @@
+C:\Users\marik\source\repos\DANIK\lab 9\Debug\lab9.MyForm.resources
+C:\Users\marik\source\repos\DANIK\lab 9\Debug\lab 9.vcxproj.GenerateResource.cache
